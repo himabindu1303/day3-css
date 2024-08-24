@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AZ91MjvK1ixxU4ECeCCUimcZ0NB9g9v1Wg&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+div{
+   background-color: aquamarine;    
+   padding-left: 30px ;
+   padding-top: 30px;
+   padding-bottom: 30px; 
+   margin-top: 30px;  
+   
+}
+#p1{
+    background-color: palevioletred;
+    width: 500px;
+    margin-top: 30px;
+    display: inline-block;
+    
+}
+#p2{
+    background-color: wheat;
+    width: 980px;
+    display: inline-block;
+   
+    
+}
